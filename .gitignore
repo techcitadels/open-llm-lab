@@ -5,3 +5,4 @@ data/
 *.tfstate*
 *.pem
 kaggle.json
+*.tfvars
